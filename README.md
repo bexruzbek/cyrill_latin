@@ -4,7 +4,7 @@ In this Node.JS application you can convert words from cyrillic to latin or from
 
 ## Demo app
 
-**URL**: [kl.bexruz.ru](http://kl.bexruz.ru) \
+**URL**: [kl.bexruz.ru](http://kl.bexruz.ru)
 
 ## Technologies
 
